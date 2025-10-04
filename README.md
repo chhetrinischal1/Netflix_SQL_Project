@@ -16,9 +16,9 @@ By formulating and solving a series of analytical questions, this project demons
 
 ## Tools & Technologies
 
-PostgreSQL — SQL database used for querying and analysis
-pgAdmin 4 — graphical interface to manage and visualize database operations
-CSV Dataset — imported into PostgreSQL
+-**PostgreSQL** — SQL database used for querying and analysis
+-**pgAdmin 4** — graphical interface to manage and visualize database operations
+-**CSV Dataset** — imported into PostgreSQL
 
 ## Dataset
 
