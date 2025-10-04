@@ -1,7 +1,6 @@
 # Netflix Movies and TV Shows Data Analysis using SQL
 
-![](<img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/0ca6973e-3cdc-42d0-b0b6-295586e50d72" />
-)
+![](<img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/0ca6973e-3cdc-42d0-b0b6-295586e50d72" />)
 
 ## Overview
 This project explores and analyzes a large Netflix dataset using SQL. The goal was to uncover insights about Netflix’s catalog — such as the balance between movies and TV shows, popular content ratings, and top-producing countries.
@@ -143,4 +142,4 @@ This project shows how SQL can transform raw, unstructured datasets into meaning
 
 ## Author - Nischal Chhetri
 This project is part of my portfolio, showcasing the SQL skills essential for data analyst roles. If you have any questions, feedback, or would like to collaborate, feel free to get in touch! 
-- **LinkedIn**: [Connect with me professionally](www.linkedin.com/in/nischal-chhetri-791b86367)
+- **LinkedIn**: [Connect with me professionally](https://www.linkedin.com/in/nischal-chhetri145/)
