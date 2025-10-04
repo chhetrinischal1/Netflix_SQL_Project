@@ -30,7 +30,7 @@ FROM netflix;
 
 SELECT * FROM netflix;
 
--- 15 Business Problems
+-- 5 Business Problems
 
 -- 1. Count the number of Movies vs TV Shows
 
@@ -87,4 +87,5 @@ LIMIT 5
 SELECT * FROM netflix
 WHERE
 	listed_in ILIKE '%documentaries%'
+
 
