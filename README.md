@@ -1,9 +1,12 @@
 # Netflix Movies and TV Shows Data Analysis using SQL
 
-![](https://github.com/najirh/netflix_sql_project/blob/main/logo.png)
+![](<img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/0ca6973e-3cdc-42d0-b0b6-295586e50d72" />
+)
 
 ## Overview
-This project involves a comprehensive analysis of Netflix's movies and TV shows data using SQL. The goal is to extract valuable insights and answer various business questions based on the dataset. The following README provides a detailed account of the project's objectives, business problems, solutions, findings, and conclusions.
+This project explores and analyzes a large Netflix dataset using SQL. The goal was to uncover insights about Netflix’s catalog — such as the balance between movies and TV shows, popular content ratings, and top-producing countries.
+
+By formulating and solving a series of analytical questions, this project demonstrates how SQL can be used to organize, query, and draw insights from real-world data.
 
 ## Objectives
 
@@ -11,6 +14,12 @@ This project involves a comprehensive analysis of Netflix's movies and TV shows 
 - Identify the most common ratings for movies and TV shows.
 - List and analyze content based on release years, countries, and durations.
 - Explore and categorize content based on specific criteria and keywords.
+
+## Tools & Technologies
+
+PostgreSQL — SQL database used for querying and analysis
+pgAdmin 4 — graphical interface to manage and visualize database operations
+CSV Dataset — imported into PostgreSQL
 
 ## Dataset
 
@@ -120,19 +129,18 @@ WHERE listed_in LIKE '%Documentaries';
 
 **Objective:** Retrieve all movies classified as documentaries.
 
+## Findings
 
-## Findings and Conclusion
+-Movies dominate Netflix’s content library: the dataset shows a higher count of movies compared to TV shows.
+-The most common rating overall was TV-MA, suggesting that mature content makes up a large share of Netflix’s offerings.
+-The United States leads in total content production, followed by India, United Kingdom, Japan, and South Korea — showing Netflix’s heavy presence in both Western and Asian markets.
+-2020 saw a steady release of movies, even during the global pandemic, reflecting Netflix’s continued production and acquisitions during that year.
+-Documentaries form a distinct and diverse category, ranging from historical to social themes, highlighting Netflix’s investment in factual storytelling.
 
-- **Content Distribution:** The dataset contains a diverse range of movies and TV shows with varying ratings and genres.
-- **Common Ratings:** Insights into the most common ratings provide an understanding of the content's target audience.
-- **Geographical Insights:** The top countries and the average content releases by India highlight regional content distribution.
-- **Content Categorization:** Categorizing content based on specific keywords helps in understanding the nature of content available on Netflix.
+## Conclusion
 
-This analysis provides a comprehensive view of Netflix's content and can help inform content strategy and decision-making.
+This project shows how SQL can transform raw, unstructured datasets into meaningful insights. By asking targeted questions, we can quickly understand content distribution, audience focus, and market diversity in Netflix’s catalog. It demonstrates not only SQL proficiency but also the power of data analysis for understanding real-world trends.
 
 ## Author - Nischal Chhetri
-
 This project is part of my portfolio, showcasing the SQL skills essential for data analyst roles. If you have any questions, feedback, or would like to collaborate, feel free to get in touch! 
-
-
-
+- **LinkedIn**: [Connect with me professionally](www.linkedin.com/in/nischal-chhetri-791b86367)
