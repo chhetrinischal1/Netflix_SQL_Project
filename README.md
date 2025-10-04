@@ -1,6 +1,6 @@
 # Netflix Movies and TV Shows Data Analysis using SQL
 
-![](<img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/0ca6973e-3cdc-42d0-b0b6-295586e50d72" />)
+![](https://images.ctfassets.net/y2ske730sjqp/1aONibCke6niZhgPxuiilC/2c401b05a07288746ddf3bd3943fbc76/BrandAssets_Logos_01-Wordmark.jpg?w=940)
 
 ## Overview
 This project explores and analyzes a large Netflix dataset using SQL. The goal was to uncover insights about Netflix’s catalog — such as the balance between movies and TV shows, popular content ratings, and top-producing countries.
