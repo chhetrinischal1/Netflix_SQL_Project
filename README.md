@@ -133,9 +133,13 @@ WHERE listed_in LIKE '%Documentaries';
 ## Findings
 
 -Movies dominate Netflix’s content library: the dataset shows a higher count of movies compared to TV shows.
+
 -The most common rating overall was TV-MA, suggesting that mature content makes up a large share of Netflix’s offerings.
+
 -The United States leads in total content production, followed by India, United Kingdom, Japan, and South Korea — showing Netflix’s heavy presence in both Western and Asian markets.
+
 -2020 saw a steady release of movies, even during the global pandemic, reflecting Netflix’s continued production and acquisitions during that year.
+
 -Documentaries form a distinct and diverse category, ranging from historical to social themes, highlighting Netflix’s investment in factual storytelling.
 
 ## Conclusion
